@@ -4,7 +4,7 @@
 
 次のURLをブラウザで開きダウンロードして下さい。
 Kaggleのサインインが必要な場合はしてください。
-https://www.kaggle.com/datasets/mohamedhanyyy/chest-ctscan-images
+https://www.kaggle.com/datasets/victoranthony/asl-digits-0-9
 ダウンロードフォルダにできた　archive.zip　を
 yoloフォルダに移動して下さい。
 
